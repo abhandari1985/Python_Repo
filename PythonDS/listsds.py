@@ -69,6 +69,7 @@ print(L4)
 L = ["one", "two", "three", "four", "five", "six"]
 print(sorted(L))
 print(L)
+print(sorted(L, reverse=True))
 
 # word = ["1", "2", "3", "4"]
 # word[:] = []
